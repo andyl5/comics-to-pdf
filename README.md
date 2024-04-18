@@ -21,3 +21,9 @@ One challenge was handling occasional redirects to CAPTCHA pages since CAPTCHAs 
 I learned to gracefully handle errors with try/except blocks and retry code with the Tenacity (retry) module.
 
 I also learned to scrape webpages with Selenium.
+
+
+## Disclaimer
+This project is intended for educational purposes only. I do not condone the use any web scrapers for illegal, unethical or commercial purposes.
+
+[ReadComicOnline] does not explicitly forbid web scrapping.
