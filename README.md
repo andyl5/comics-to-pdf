@@ -1,5 +1,5 @@
 # Comics to PDF
-A tool to download comic books as PDF files from [ReadComicOnline](https://readcomiconline.li) for offline use.
+A tool to convert online comic books to PDF files for offline use.
 
 ## Tech Stack
 Python, Selenium, Pillow, Tenacity (Retry module)
